@@ -1,0 +1,9 @@
+#idfloatleft {float: left; background-color: #e5d1d1; font-family: Verdana, sans-serif; padding: 20px;}
+
+.classheadlinedot {color: red; border-bottom: 1px blue dotted;}
+
+#idabsolutegray {position: absolute; top: 20; right: 40; background-color: #d3d3d3; border: 1px solid black;}
+
+.classrelativegreen {position: relative; left: 15; background-color: #98fb98;}
+
+#idfixedgray {position: fixed; background-color: #d3d3d3; padding: 10px; font-weight: bold;}
