@@ -1,0 +1,15 @@
+<html>
+<script>
+if (form.email.value == "") {
+    alert( "Please enter your email address." );
+    form.email.focus();
+    return false ;
+  }
+</script>
+<form action="http://www.markmurtha.com/csis128/readform.asp" method="post" target="_blank">
+  Name: <input type="text" name="fname" required>
+  <br>
+  E-Mail Address: <input type="text" name="email" required>
+  <input type="submit" value="Sign Up Now">
+</form>
+</html>
